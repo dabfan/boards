@@ -2,6 +2,14 @@
 
 ## ToC
 
+<!-- vim-markdown-toc GFM -->
+
+* [Install](#install)
+    - [Docker engine](#docker-engine)
+    - [docker-compose](#docker-compose)
+    - [Final steps](#final-steps)
+
+<!-- vim-markdown-toc -->
 
 ## Install
 
